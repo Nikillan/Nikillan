@@ -1,3 +1,4 @@
+//This is just a mini project. Menu Card.
 #include<stdio.h>
 #include<string.h>
 typedef struct menu
