@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikillan
 - 👀 I’m interested in finding optimised solutions
-- 🌱 I’m currently learning C
+- 🌱 I’m currently upskilling Java
 
 <!---
 Nikillan/Nikillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
